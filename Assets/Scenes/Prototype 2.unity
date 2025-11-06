@@ -758,7 +758,6 @@ MonoBehaviour:
   - {fileID: 4279557926914476301, guid: 564a9ca97de1c5b4a9fd6623ae267b04, type: 3}
   - {fileID: 8161330637300081075, guid: 16a8664960944fc4c9d55b08ee77f4de, type: 3}
   - {fileID: 2675701305645610259, guid: 9ca74fca388097f49827e9b3c115bfca, type: 3}
-  animalCount: 2
 --- !u!4 &1411982735
 Transform:
   m_ObjectHideFlags: 0
